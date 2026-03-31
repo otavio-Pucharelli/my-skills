@@ -17,6 +17,8 @@ Focadas no ecossistema de desenvolvimento Java (Spring Boot, Quarkus) e arquitet
   * **Descrição:** Especialista em Auditoria Técnica e SEO. Analisa a infraestrutura e código em busca de melhorias de performance (Vitals), Server-Side Rendering (SSR) e metadados.
 * **[Java Code Security Checker](./Java-skills/Security-checker/Skill.md)**
   * **Descrição:** Realiza validações de segurança ativas e procura por vulnerabilidades (OWASP Top 10, Injeções, Configurações Inseguras) em códigos Java, com foco especializado em Spring Boot e Quarkus.
+* **[Java Senior Developer](./Java-skills/java-senior-developer/Skill.md)**
+  * **Descrição:** Atua como um Desenvolvedor Java Web Sênior, especialista em Spring Boot e Quarkus. Focado em alinhar boas práticas (Clean Architecture), obrigatoriedade de testes automatizados (TDD) e exigir aprovações parciais durante a implementação.
 
 ### 🎨 Frontend
 Focadas no ecossistema e visualização de aplicações Client-side.
